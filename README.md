@@ -2,7 +2,7 @@
 
 Presentation of Student Management App (20min) can be found there: https://www.youtube.com/watch?v=TYvwSEom6s8
 
-Currently working on Java Backend web app: https://github.com/AnnaOcilkova/Webshop
+Currently working on learning Angular
 
 
 
